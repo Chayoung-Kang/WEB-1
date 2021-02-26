@@ -1,0 +1,29 @@
+h1{
+  color: white;
+  font-size:60px;
+  text-align:center;
+  padding:30px;
+  margin-top:40px;
+}
+h2{
+  color:white;
+  font-size:50px;
+  text-align:center;
+  text-shadow:#ff3300 3px 2px 3px;
+  margin:100px;
+  padding:30px;
+  margin-bottom:20px;
+}
+a{
+  text-decoration:none;
+  color:white;
+}
+a:link{
+  color:white;
+}
+a:active{
+  color:yellow;
+}
+#image{
+  text-align:center;
+}
